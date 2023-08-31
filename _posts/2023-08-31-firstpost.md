@@ -3,6 +3,9 @@ title:  "github.io 블로그 시작하기"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 layout: single
 comments: false
+toc: true
+toc_sticky: true
+toc_label: "목차"
 categories:
   - Blog
 tags:
@@ -10,6 +13,13 @@ tags:
 last_modified_at: #2023-08-31T08:06:00-05:00
 ---
 
-블로그 개설을 어떻게 할지 고민하다 github.io가 간편하다고 하여 만들었다.  
+## 개설
+&nbsp;블로그 개설을 어떻게 할지 티스토리, 네이버 블로그, github.io 중 고민하다 github.io가 간편하다고 하여 만들었다.  
 하지만 개발자가 아니면 전혀 간편하지 않겠다는 생각을 했다.  
-처음 블로그를 해봐서 기본 세팅을 하는데 오래걸렸고 
+개발자가 아니라면 전혀 추천하지 않는다.  
+처음 블로그를 해보기도 하고 Ruby, jekyll(지킬?)도 처음 사용하여 기본 세팅을 하는데 오래걸렸다.  
+사실 템플릿 고민 시간이 제일 길었다...  
+
+
+
+## 방법
