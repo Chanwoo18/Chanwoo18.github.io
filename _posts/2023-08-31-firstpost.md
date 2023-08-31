@@ -2,7 +2,7 @@
 title:  "github.io 블로그 시작하기"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 layout: single
-comments: false
+comments: true
 toc: true
 toc_sticky: true
 toc_label: "목차"
