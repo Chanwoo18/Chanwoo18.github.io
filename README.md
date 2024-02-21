@@ -1,4 +1,4 @@
-# [My Blog](https://chanwoo18.github.io/)
+# [My Blog Link - Click!](https://chanwoo18.github.io/)
 
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
